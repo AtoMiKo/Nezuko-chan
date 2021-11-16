@@ -19,6 +19,6 @@
 
 ✓ Full Customizable
 
-✓ Works on Replit.com and any vps, with public & private Lavalink Nodes
+✓ Works on Replit.com and any vps
 
 <br/>
