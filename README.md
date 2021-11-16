@@ -9,8 +9,6 @@
 
 ✓ Info : avatar, botinfo, channelinfo, djsdocs, roleinfo, rolememberinfo, serverav, serverinfo, ss, twitter, whois, wikipedia
 
-✓ Everything is customicable / GUILD (`embeds`, `language` & default music values like: `volume`, `filter`, `equalizer`, `autoplay`, ...)
-
 ✓ Mod : ban, deafen, dm, hackban, kick, lock, lockdown, mute, purge, resetwarns, roleadd, roledel, setnick, show-warns, slowmode, tempban, unban, undeafen, unlock, unmute, vcmove, warn
 
 ✓ Utility : calculate, help, invite, ping, poll, removeafk, setafk, uptime
