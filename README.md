@@ -1,6 +1,6 @@
 ### Discord.js Open Source Bot
 
-Replit Version : (FORK IT)[https://replit.com/@TheNumber122/Nezuko-Chan-Source-Code]
+Replit Version : [FORK IT](https://replit.com/@TheNumber122/Nezuko-Chan-Source-Code)
 <br/>
 
 ## Commands:
