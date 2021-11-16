@@ -1,5 +1,7 @@
 ### Discord.js Open Source Bot
 
+<br/>
+
 ## Commands:
 ✓ Admin : addcc, addemoji, ai-setup, alt-config, autorole, bypass-alt, delcc, disablemodlogchannel, disablemuterole, fetch-alts, help-greetings, prefix, setmodlogchannel, setmuterole, svr
 
@@ -18,11 +20,5 @@
 ✓ Full Customizable
 
 ✓ Works on Replit.com and any vps, with public & private Lavalink Nodes
-
-<br/>
-
-***
-
-***
 
 <br/>
